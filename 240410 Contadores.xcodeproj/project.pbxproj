@@ -14,6 +14,7 @@
 		A07C7B462BC6E7C600639FF4 /* _40410_ContadoresTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07C7B452BC6E7C600639FF4 /* _40410_ContadoresTests.swift */; };
 		A07C7B502BC6E7C600639FF4 /* _40410_ContadoresUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07C7B4F2BC6E7C600639FF4 /* _40410_ContadoresUITests.swift */; };
 		A07C7B522BC6E7C600639FF4 /* _40410_ContadoresUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07C7B512BC6E7C600639FF4 /* _40410_ContadoresUITestsLaunchTests.swift */; };
+		A07C7B612BC6F37200639FF4 /* Circulos.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07C7B602BC6F37200639FF4 /* Circulos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A07C7B4B2BC6E7C600639FF4 /* 240410 ContadoresUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "240410 ContadoresUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A07C7B4F2BC6E7C600639FF4 /* _40410_ContadoresUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40410_ContadoresUITests.swift; sourceTree = "<group>"; };
 		A07C7B512BC6E7C600639FF4 /* _40410_ContadoresUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40410_ContadoresUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A07C7B602BC6F37200639FF4 /* Circulos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circulos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				A07C7B342BC6E7C400639FF4 /* _40410_ContadoresApp.swift */,
 				A07C7B362BC6E7C400639FF4 /* ContentView.swift */,
+				A07C7B602BC6F37200639FF4 /* Circulos.swift */,
 				A07C7B382BC6E7C600639FF4 /* Assets.xcassets */,
 				A07C7B3A2BC6E7C600639FF4 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				A07C7B372BC6E7C400639FF4 /* ContentView.swift in Sources */,
 				A07C7B352BC6E7C400639FF4 /* _40410_ContadoresApp.swift in Sources */,
+				A07C7B612BC6F37200639FF4 /* Circulos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
